@@ -29,7 +29,7 @@ Diese Abgabe behandelt:
 ---
 
 ## 📂 Dateistruktur
-EDV1
+EDV1 <br />
 ├── abgabe1.Rmd # RMarkdown-Datei mit Aufgaben, Code und Antworten <br />
 ├── HDR.RData # Geladener Datensatz (extern bereitgestellt) <br />
 ├── abgabe1.pdf # Exportierte PDF-Version <br />
